@@ -1,17 +1,9 @@
 [
 	{
-		"title": "Тестовая новость",
-		"image": "https://api.ru-state.online/mobile/news/png/banner_obt_ru_steyt.png",
-		"link": "https://vk.com/cr_rustate"
-	},
-	{
-		"title": "проверка",
-		"image": "https://api.ru-state.online/mobile/news/png/banner_obt_ru_steyt.png",
-		"link": ""
-	},
-	{
-		"title": "проверка 1",
-		"image": "https://api.ru-state.online/mobile/news/png/banner_obt_ru_steyt.png",
-		"link": ""
+		"title": "ВЫПУСКАЕМ ТЕСТ СЕРВЕРА",
+		"text": "",
+		"image": "http://katod93z.beget.tech/zima.jpeg",
+		"link": "https://vk.com/space__russia",
+		"red": false
 	}
 ]
