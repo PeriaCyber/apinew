@@ -1,6 +1,6 @@
 {
     "clientVersionCode": 100,
-    "gameFilesVersionCode": 100,
+    "gameFilesVersionCode": 1,
     "URL_GAME_FILES" : "http://147.50.252.101/mobile/game.zip",
     "URL_GAME_FILES_UPD" : "http://147.50.252.101/mobile/files_upd.zip",
     "URL_GAME_FILES_UPDATE" : "http://147.50.252.101/mobile/files_graph.zip",
@@ -9,5 +9,5 @@
     "URL_YOUTUBE": "https://t.me/bladegames_official",
     "URL_FORUM": "https://f.ru-state.online/",
     "URL_DONATE": "https://ru-state.online/donate",
-    "URL_CLIENT": "https://api.ru-state.online/test/client.apk"
+    "URL_CLIENT": ""
 }
