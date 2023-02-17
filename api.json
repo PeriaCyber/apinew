@@ -3,11 +3,11 @@
     "gameFilesVersionCode": 1,
     "URL_GAME_FILES" : "http://147.50.252.101/game.zip",
     "URL_GAME_FILES_UPD" : "http://147.50.252.101/files_upd.zip",
-    "URL_GAME_FILES_UPDATE" : "http://147.50.252.101/files_graph.zip",
-    "URL_VK": "https://vk.com/cr_rustate",
-    "URL_DISCORD": "https://discord.gg/gtbqw8gbsC",
-    "URL_YOUTUBE": "https://t.me/bladegames_official",
-    "URL_FORUM": "https://f.ru-state.online/",
-    "URL_DONATE": "https://ru-state.online/donate",
+    //"URL_GAME_FILES_UPDATE" : "http://147.50.252.101/files_graph.zip",
+    "URL_VK": "https://",
+    "URL_DISCORD": "https://",
+    "URL_YOUTUBE": "https://",
+    "URL_FORUM": "https://",
+    "URL_DONATE": "https://",
     "URL_CLIENT": ""
 }
