@@ -1,9 +1,9 @@
 {
     "clientVersionCode": 1,
     "gameFilesVersionCode": 1,
-    "URL_GAME_FILES" : "http://147.50.252.101/game.zip",
-    "URL_GAME_FILES_UPD" : "http://147.50.252.101/files_upd.zip",
-    "URL_GAME_FILES_UPDATE" : "http://147.50.252.101/files_graph.zip",
+    "URL_GAME_FILES" : "http://127.0.0.1/game.zip",
+    "URL_GAME_FILES_UPD" : "http://127.0.0.1/files_upd.zip",
+    "URL_GAME_FILES_UPDATE" : "http://127.0.0.1/files_graph.zip",
     "URL_VK": "https://",
     "URL_DISCORD": "https://",
     "URL_YOUTUBE": "https://",
