@@ -9,15 +9,6 @@
 		"name":"NewThings"
 	},
 	{
-		"ip": "147.50.240.45",
-		"port": 7777,
-		"id": 2,
-		"color":"ff2624", 
-		"action": 2,
-		"key":"1424",
-		"name":"test"
-	},
-	{
 		"ip": "191.96.92.99",
 		"port": 7777,
 		"id": 3,
@@ -25,6 +16,14 @@
 		"action": 1,
 		"key":"1424",
 		"name":"Career"
+	},
+	{
+		"ip": "147.50.240.45",
+		"port": 7777,
+		"id": 2,
+		"color":"ff2624", 
+		"action": 2,
+		"key":"1424",
+		"name":"test"
 	}
-
 ]
