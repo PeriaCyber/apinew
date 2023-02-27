@@ -5,7 +5,7 @@
 		"id": 1,
 		"color":"ff2624", 
 		"action": 1,
-		"key":"1424",
+		"key":"",
 		"name":"NewThings"
 	},
 	{
@@ -13,17 +13,17 @@
 		"port": 7777,
 		"id": 2,
 		"color":"ff2624", 
-		"action": 1,
-		"key":"1424",
-		"name":"Career"
+		"action": 2,
+		"key":"",
+		"name":"John_Peria"
 	},
 	{
 		"ip": "127.0.0.1",
 		"port": 7777,
 		"id": 3,
 		"color":"ff2624", 
-		"action": 2,
-		"key":"1424",
-		"name":"test"
+		"action": 3,
+		"key":"",
+		"name":"data"
 	}
 ]
