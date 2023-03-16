@@ -1,6 +1,7 @@
 {
-    "clientVersionCode": 100,
-    "gameFilesVersionCode": 100,
+    "clientVersionCode": 1,
+    "clientSampVersionCode": 1,
+    "gameFilesVersionCode": 1,
     "URL_GAME_FILES" : " ",
     "URL_GAME_FILES_UPD" : " ",
     "URL_VK": " ",
@@ -8,5 +9,6 @@
     "URL_YOUTUBE": " ",
     "URL_FORUM": " ",
     "URL_DONATE": " ",
-    "URL_CLIENT": " "
+    "URL_CLIENT": " ",
+    "URL_CLIENTSAMPAPK": " "
 }
