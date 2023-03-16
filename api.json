@@ -1,6 +1,6 @@
 {
-    "clientVersionCode": 1,
-    "clientSampVersionCode": 1,
+    "clientLauncherVersionCode": 1,
+    "clientApkVersionCode": 1,
     "gameFilesVersionCode": 1,
     "URL_GAME_FILES" : " ",
     "URL_GAME_FILES_UPD" : " ",
